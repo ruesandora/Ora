@@ -16,6 +16,8 @@
 
 > Bu cüzdan hem node puanları hem de diğer puanları toplamak için kullanın.
 
+> Cüzdana biraz sepolia eth ekleyin.
+
 #
 
 ## Kurulum

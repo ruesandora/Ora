@@ -4,6 +4,8 @@
 
 > Donanım: En az 8 GB RAM ve 50 GB Disk gereklidir.
 
+> Güncellemeler için topluluk [kanalımız](https://t.me/RuesAnnouncement).
+
 #
 
 > Ora node'u için sıfır bir account metamask oluşturun.
